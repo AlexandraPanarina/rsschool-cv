@@ -5,3 +5,8 @@
 * github account: [GitHub](https://github.com/AlexandraPanarina)
 ## Summary 
 I am energetic, imaginative and initiative person, with an ability to quickly process new information. I am always eager for self-development and professional growth. My current goals are to learn as much as it is possible to become a perfect front-end developer. 
+## Skills
+* HTML5 Basics
+* CSS3 Basics
+* JavaScript Basics
+* Git Basics
