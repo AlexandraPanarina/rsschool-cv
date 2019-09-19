@@ -10,3 +10,13 @@ I am energetic, imaginative and initiative person, with an ability to quickly pr
 * CSS3 Basics
 * JavaScript Basics
 * Git Basics
+## Code Examples 
+```javascript
+var countSheep = function (num) {
+  var murmur = '';
+  for (var i = 0; i < num; i++) {
+    murmur += (i+1) + ' sheep...';
+  }
+  return murmur;
+}
+```
