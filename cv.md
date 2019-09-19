@@ -30,3 +30,7 @@ var countSheep = function (num) {
 * Codeacademy online courses 
 * Cousera webinars 
 * Web Academy webinars
+
+## English (B1)
+* Worked as a consultant and translator during World Hockey Championship 2014
+ 
