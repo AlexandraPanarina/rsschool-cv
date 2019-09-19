@@ -25,3 +25,8 @@ var countSheep = function (num) {
 * Passed HTML and CSS courses at [codeacademy](https://www.codecademy.com/profiles/AliaksandraP)
 * Accomplished tasks at [codewars](https://www.codewars.com/users/AliaksandraP)
 
+## Education 
+* HTML Academy online courses
+* Codeacademy online courses 
+* Cousera webinars 
+* Web Academy webinars
