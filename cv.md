@@ -20,3 +20,8 @@ var countSheep = function (num) {
   return murmur;
 }
 ```
+## Experience 
+* 	Passed HTML, CSS and JavaScript basics courses at [htmlacademy](https://htmlacademy.ru/profile/aliaksandrap)
+* Passed HTML and CSS courses at [codeacademy](https://www.codecademy.com/profiles/AliaksandraP)
+* Accomplished tasks at [codewars](https://www.codewars.com/users/AliaksandraP)
+
