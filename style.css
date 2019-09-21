@@ -1,0 +1,99 @@
+body {
+	display: block;
+	width: 75%;	
+	margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+ 
+h1 {
+	font-family: "Simonetta", Arial, sans-serif;
+	font-size: 45px;
+}
+
+.name {
+	text-align: center;
+}
+
+div img {
+	border-radius: 20px;
+}
+
+.logo {
+	text-align: right;
+	margin-right: 30px;
+}
+
+nav {
+	height: 300px;
+	display: flex;
+	justify-content: space-between;
+} 
+
+nav ul li a {
+	text-align: left;
+	font-size: 30px;
+	color: #454545;
+	text-decoration: none;
+	font-family: "Balthazar", Times New Roman, serif;
+}
+
+main {
+	margin: 20px 20px 20px 20px;
+}
+
+h2 {
+	font-family: "Simonetta", Arial, sans-serif;
+	font-size: 30px;
+}
+
+section p {
+	font-size: 30px;
+	font-family: "Balthazar", Times New Roman, serif;
+}
+
+section ul li {
+	font-size: 30px;
+	font-family: "Balthazar", Times New Roman, serif;
+}
+
+section ul li a {
+	color: #454545;
+}
+
+code {
+	font-family: "Balthazar", Times New Roman, serif;
+	font-size: 30px;
+}
+
+footer {		
+	margin-left: 20px;
+	font-size: 30px;
+	font-family: "Balthazar", Times New Roman, serif;
+}
+
+footer span a {
+	color: #454545;
+}
+
+footer div {
+	display: flex;
+}
+
+footer div .mail {
+	margin: 3px 0 0 20px;
+}
+
+footer div .phone {
+	margin: 3px 0 0 20px;	
+}
+
+footer div .account {
+	margin: 3px 0 0 20px;
+}
+
+
+
+
+
